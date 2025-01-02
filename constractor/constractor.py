@@ -14,3 +14,4 @@ print(s1.name, s1.marks)
 
 s2 = Student("Arjun", 88)
 print(s2.get_marks())
+
