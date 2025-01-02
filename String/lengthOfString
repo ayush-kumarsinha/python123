@@ -1,0 +1,5 @@
+#CALCULATE LENGTH OF STRING 
+
+str1 = "AYUSH"
+len = len(str1)
+print(len)
